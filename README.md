@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in Go language
 - 🌱 I’m currently learning Go language
 - 💞️ I’m looking to collaborate on Go language projects
-- 📫 How to reach me ... email to pguerrerov@gmail.com or whatsapp +524422060640
+- 📫 How to reach me ... email to pguerrerov@gmail.com
 
 <!---
 pguerrerov/pguerrerov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
