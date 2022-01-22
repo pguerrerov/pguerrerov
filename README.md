@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pguerrerov
-- 👀 I’m interested in programming in Go language
+- 👀 I’m interested in programming using Go language
 - 🌱 I’m currently learning Go language
 - 💞️ I’m looking to collaborate on Go language projects
 - 📫 How to reach me ... email to pguerrerov@gmail.com
